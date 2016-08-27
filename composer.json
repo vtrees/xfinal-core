@@ -1,0 +1,10 @@
+{
+  "name" : "vtrees/frame",
+  "require" : {
+    "illuminate/database": "*",
+    "illuminate/events": "*"
+  },
+  "autoload" : {
+    "core" : "."
+  }
+}
